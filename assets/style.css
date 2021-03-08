@@ -137,18 +137,17 @@ header {
       .work h2{
         color: var(--charcoal);
         font-size: 48px;
-        font-weight: lighter;
         border-bottom: 3px solid var(--dark-brown);
         padding-bottom: 20px;
         text-align: center;
         margin: 0 auto 35px auto;
         width: 50%;
+        font-weight: lighter;
       }
     
       .work-gallery-wrapper {
     
         padding: 10px 20px;
-        border-left: 3px solid var(--secondary-color);
         flex: 4 50%;
       }
     
@@ -164,12 +163,11 @@ header {
       .service-grid-item {
         border: 3px solid;
         border-style: bold;
-        color: var(--tertiary-color);
+        color: var(--brown);
         
       }
-    
       .service-grid-container h3 {
-        color: rgb(112, 112, 235);
+        color: var(--charcoal);
         font-weight: bold;
         font-size: 30px;
         position: bottom;
@@ -185,7 +183,6 @@ header {
           background-size: cover;
 
       }
-    
     
       
       .box2 {
